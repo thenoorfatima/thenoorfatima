@@ -1,16 +1,42 @@
-## Hi there 👋
+<h2 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h2>
+<h2 align="center">☆*: Hello Hello, I'm Noor Fatima, a Researcher :*☆ 🚀</h2>
+<div align="center"><p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/thenoorfatima/thenoorfatima.svg" />
+</p></div>
 
-<!--
-**thenoorfatima/thenoorfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Google Scholar](https://img.shields.io/badge/-Scholar-yellow?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?user=8A0IAUUAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-darkblue?style=flat&logo=&logoColor=white)](https://www.researchgate.net/profile/Noor-Fatima-26)
+[![ORCID](https://img.shields.io/badge/-ORCID-green?style=flat&logo=&logoColor=white)](https://orcid.org/0000-0002-9245-7352)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thenoorfatima)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thenoorfatima/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:noor14fatima@gmail.com)
+&nbsp;
 
-Here are some ideas to get you started:
+<h3 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h3>
+<img width="45%" align="right" alt="Github" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 Currently working on Backend Development;
+- 🌱 Learning the MERN Stack;
+- 💬 Ask me about Research, I am happy to help;
+- ⚡️ Fun-Fact: I have more than 14 Research Publications in AI;
+- 🎈 I love binge watching ANIME!
+- 🍰 Baking & Cooking makes me happy.
+- 🍔 I like exploring new cultures & food outlets.
+- 📸 I click nice pictures.
+  
+&nbsp; <br><br><br>
+<div align="center">
+  <h3> My Github Statistics  (👉ﾟヮﾟ)👉</h3>
+  <div>
+    <a href="https://github.com/thenoorfatima">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenoorfatima&layout=compact&theme=dark" alt="Top Languages">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/thenoorfatima">
+      <img src="https://streak-stats.demolab.com/?user=thenoorfatima&theme=dark&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak Stats">
+    </a>
+  </div>
+</div>
+<h3 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h3>
+---
