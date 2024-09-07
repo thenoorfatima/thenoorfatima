@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thenoorfatima)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thenoorfatima/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:noor14fatima@gmail.com)
-&nbsp;
+&nbsp;<br><br>
 
 <h3 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h3>
 <img width="45%" align="right" alt="Github" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" />
@@ -24,7 +24,7 @@
 - 🍔 I like exploring new cultures & food outlets.
 - 📸 I click nice pictures.
   
-&nbsp; <br><br><br>
+&nbsp; <br><br>
 <div align="center">
   <h3> My Github Statistics  (👉ﾟヮﾟ)👉</h3>
   <div>
