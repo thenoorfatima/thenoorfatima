@@ -29,12 +29,12 @@
   <h3> My Github Statistics  (👉ﾟヮﾟ)👉</h3>
   <div>
     <a href="https://github.com/thenoorfatima">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenoorfatima&layout=compact&theme=dark" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenoorfatima&layout=compact" alt="Top Languages">
     </a>
   </div>
   <div>
     <a href="https://github.com/thenoorfatima">
-      <img src="https://streak-stats.demolab.com/?user=thenoorfatima&theme=dark&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak Stats">
+      <img src="https://streak-stats.demolab.com/?user=thenoorfatima&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak Stats">
     </a>
   </div>
 </div>
