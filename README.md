@@ -15,10 +15,10 @@
 <h3 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h3>
 <img width="45%" align="right" alt="Github" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" />
 
-- 👨🏽‍💻 Currently working on Backend Development;
-- 🌱 Learning the MERN Stack & Pytorch;
-- 💬 Ask me about Research, I am happy to help;
-- ⚡️ Fun-Fact: I have more than 14 Research Publications in AI;
+- 👨🏽‍💻 Currently working on Backend Development.
+- 🌱 Learning the MERN Stack & Pytorch.
+- 💬 Ask me about Research.
+- ⚡️ Fun-Fact: I have more than 14 Research Publications in AI.
 - 🎈 I love binge watching ANIME!
 - 🍰 Baking & Cooking makes me happy.
 - 🍔 I like exploring new cultures & food outlets.
