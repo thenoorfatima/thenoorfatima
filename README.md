@@ -17,7 +17,7 @@
 
 - 👨🏽‍💻 Currently working on Backend Development.
 - 🌱 Learning the MERN Stack & Pytorch.
-- 💬 Ask me about Research.
+- 💬 Ask me about Research and AI.
 - ⚡️ Fun-Fact: I have more than 14 Research Publications in AI.
 - 🎈 I love binge watching ANIME!
 - 🍰 Baking & Cooking makes me happy.
