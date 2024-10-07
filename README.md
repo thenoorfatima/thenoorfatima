@@ -13,7 +13,7 @@
 &nbsp;<br><br>
 
 <h3 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h3>
-<img width="45%" align="right" alt="Github" src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" />
+<img width="45%" align="right" alt="Github" src="https://i2.wp.com/images2.fanpop.com/image/photos/13700000/Hii-chan-reading-a-book-anime-13788231-960-540.gif" align="right" />
 
 - 👨🏽‍💻 Currently working on Backend Development.
 - 🌱 Learning the MERN Stack & Pytorch.
