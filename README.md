@@ -15,8 +15,8 @@
 <h3 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h3>
 <img width="45%" align="right" alt="Github" src="https://i2.wp.com/images2.fanpop.com/image/photos/13700000/Hii-chan-reading-a-book-anime-13788231-960-540.gif" align="right" />
 
-- 👨🏽‍💻 Currently working on Backend Development.
-- 🌱 Learning the MERN Stack & Pytorch.
+- 👨🏽‍💻 Currently working at King Fahd University of Petroleum and Minerals.
+- 🌱 Learning everyday.
 - 💬 Ask me about Research and AI.
 - ⚡️ Fun-Fact: I have more than 14 Research Publications in AI.
 - 🎈 I love binge watching ANIME!
